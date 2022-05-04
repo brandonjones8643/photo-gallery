@@ -84,7 +84,7 @@ export default function App() {
     <div>
       <Router>
         {/*
-        This opens navigation and closes a closes a clicked image 
+        This opens navigation and closes a clicked image 
         when navbar is opened.
         */}
         {navOpen ? (
